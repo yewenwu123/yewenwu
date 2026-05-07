@@ -1,9 +1,0 @@
-<svg width="1200" height="880" viewBox="0 0 1200 880" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="880" rx="32" fill="#EFE2D0"/>
-  <rect x="116" y="270" width="306" height="184" rx="84" stroke="#2D2926" stroke-width="28"/>
-  <rect x="780" y="270" width="306" height="184" rx="84" stroke="#2D2926" stroke-width="28"/>
-  <path d="M422 356H780" stroke="#2D2926" stroke-width="26" stroke-linecap="round"/>
-  <path d="M168 260C228 214 308 204 374 230" stroke="#B86A34" stroke-width="20" stroke-linecap="round"/>
-  <path d="M818 230C884 204 964 214 1024 260" stroke="#B86A34" stroke-width="20" stroke-linecap="round"/>
-  <text x="600" y="770" text-anchor="middle" fill="#6C5948" font-size="48" font-family="Arial, sans-serif">Replace with your real frame image</text>
-</svg>
