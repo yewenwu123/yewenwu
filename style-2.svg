@@ -1,9 +1,0 @@
-<svg width="1200" height="880" viewBox="0 0 1200 880" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="880" rx="32" fill="#E2ECE8"/>
-  <ellipse cx="321" cy="362" rx="166" ry="126" stroke="#29483E" stroke-width="22"/>
-  <ellipse cx="879" cy="362" rx="166" ry="126" stroke="#29483E" stroke-width="22"/>
-  <path d="M487 362H713" stroke="#29483E" stroke-width="18" stroke-linecap="round"/>
-  <path d="M163 342C224 296 282 278 346 292" stroke="#7FA193" stroke-width="16" stroke-linecap="round"/>
-  <path d="M853 292C917 278 975 296 1036 342" stroke="#7FA193" stroke-width="16" stroke-linecap="round"/>
-  <text x="600" y="770" text-anchor="middle" fill="#4E665B" font-size="48" font-family="Arial, sans-serif">Replace with your real frame image</text>
-</svg>
