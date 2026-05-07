@@ -1,0 +1,8 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1100" rx="48" fill="#F0E4D5"/>
+  <rect x="70" y="70" width="760" height="960" rx="36" fill="#FCF8F2"/>
+  <circle cx="450" cy="375" r="118" fill="#D4B08A"/>
+  <rect x="270" y="530" width="360" height="245" rx="100" fill="#B86A34"/>
+  <rect x="185" y="840" width="530" height="72" rx="20" fill="#E7D2BB"/>
+  <text x="450" y="880" text-anchor="middle" fill="#6A584A" font-size="42" font-family="Arial, sans-serif">Replace with your life photo</text>
+</svg>
