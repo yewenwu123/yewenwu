@@ -1,8 +1,0 @@
-<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="1100" rx="48" fill="#F5EEE2"/>
-  <rect x="74" y="74" width="752" height="952" rx="36" fill="#FFFCF8"/>
-  <circle cx="450" cy="338" r="144" fill="#E0C09E"/>
-  <rect x="250" y="518" width="400" height="280" rx="110" fill="#7D4319"/>
-  <rect x="188" y="858" width="524" height="72" rx="20" fill="#E8D6C0"/>
-  <text x="450" y="900" text-anchor="middle" fill="#705845" font-size="42" font-family="Arial, sans-serif">Replace with portrait photo</text>
-</svg>
